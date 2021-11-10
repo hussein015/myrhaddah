@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    padding-left: 30px;
+}
+
+.form {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+placeholder{
+    color: white;
+}
+input{
+    width: 30%;
+    margin-bottom: 10px;
+    padding: 10px 20px;
+    border-radius: 3px;
+    border: 1px solid;
+    background-color: rgba(58, 54, 54, 0.637);
+
+}
+button{width: 33%;
+margin-top: 20px;
+padding: 10px 20px;
+border: none;
+background-color: red;
+color: white;
+
+
+}
+.parent{
+    color: red;
+}
+h4{
+    padding-left: 365px;
+    font-family: serif;
+    color:#333;
+    margin-top: 25px;
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    padding-left: 20px;
+}
